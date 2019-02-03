@@ -1,0 +1,1 @@
+Folder for testing various algorithms and architectures on the famous MNIST dataset, before moving them on to more detailed projects.
